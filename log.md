@@ -1,4 +1,4 @@
-# 100 Days of COde - Log
+# 100 Days of Code - Log
 
 ### Day 0: June 30, 2020 
 

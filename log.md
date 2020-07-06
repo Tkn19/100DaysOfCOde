@@ -7,3 +7,10 @@
 - working on Kaggle India Rainfall dataset to visualize data
 
 
+### Day 5: July 5, 2020 
+
+- learned Git 
+- set up Python and Sublime text
+- started working on Alien Invasion Python Project
+
+
